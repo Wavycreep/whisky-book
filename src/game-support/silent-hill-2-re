@@ -1,0 +1,24 @@
+# Silent Hill 2 Remastered 
+<!-- script:Aliases [
+    "Silent Hill 2 Remastered"
+] -->
+
+{{#template ../templates/rating.md status=Silver installs=Yes opens=Yes}}
+
+## Specifications
+
+- M3 Pro 
+- RAM 18
+- 16 inch 
+- DXVK: off
+- Msync: on
+
+## Results
+
+- 30-40 fps, 1168x730, lowest graphics
+
+
+> [!WARNING]
+> Don't set the `Intel Xe Super Sampling` in `Settings` -> `Graphics` 
+
+{{#template ../templates/steam.md id=2124490}}
